@@ -59,4 +59,3 @@ india-election-analytics-2024/
 ├── data/                         # Cleaned CSV files used by Power BI
 ├── notebooks/                    # Python scripts for data prep
 ├── dashboards/                   # Final PBIX dashboard file
-└── screenshots/                  # Dashboard image previews
